@@ -1,0 +1,262 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.682899,41.4952748 ]
+   },
+   "properties": {
+   "name":"Cleveland Treatment Center",
+   "address":"1127 Carnige Avenue, Cleveland, OH",
+   "category":"carecenter",
+   "storeid":1,
+   "description":"Care center",
+   "phone":"216-861-4246",
+   "directions": "https://www.google.com/maps/dir//Cleveland+Treatment+Center,+1127+Carnegie+Ave,+Cleveland,+OH+44115/@41.3656732,-81.9190521,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8830fa8637b827e5:0xa5191429ea5d070c!2m2!1d-81.68155!2d41.4966238"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.684718,41.506516 ]
+   },
+   "properties": {
+   "name":"Care Alliance Health Center",
+   "address":"2916 Central Avenue, Cleveland, OH",
+   "category":"carecenter",
+   "storeid":2,
+   "description":"Care center",
+   "phone":"216-535-9100",
+   "directions": "https://www.google.com/maps/dir//Care+Alliance+Health+Center+-+Central+Neighborhood+Clinic,+Central+Avenue,+Cleveland,+OH/@41.496621,-81.7367876,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8830faf50893f201:0x4f1d4e5e2ae0d66e!2m2!1d-81.6667476!2d41.4966422"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.516241,41.457357 ]
+   },
+   "properties": {
+   "name":"Glenbeigh Hospital",
+   "address":"3789 S Green Road, Beachwood, OH",
+   "category":"carecenter",
+   "storeid":3,
+   "description":"Care center",
+   "phone":"440-356-7620",
+   "directions": "https://www.google.com/maps/dir//Glenbeigh+Outpatient+Center+of+Beachwood,+South+Green+Road,+Beachwood,+OH/@41.4573657,-81.5163643,21z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8831028555555555:0x1299b2913faf47a8!2m2!1d-81.5161895!2d41.457405"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.7098349,41.4878447 ]
+   },
+   "properties": {
+   "name":"Cleveland Clinic Lutheran Hospital",
+   "address":"1730 W 25th St, Cleveland, OH",
+   "category":"carecenter",
+   "storeid":4,
+   "description":"Care center",
+   "phone":"216-421-0482",
+   "directions": "https://www.google.com/maps/dir//1730+W+25th+St,+Cleveland,+OH+44113/@41.4861621,-81.7066118,17.47z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8830f06ead7f118b:0xbe444ba6a31e0d3d!2m2!1d-81.707536!2d41.4873144"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.533816,41.5016392 ]
+   },
+   "properties": {
+   "name":"Oakview Behavioral Health Center",
+   "address":"7265 Old Oak Blvd, Middleburg Heights, OH",
+   "category":"carecenter",
+   "storeid":5,
+   "description":"Care center",
+   "phone":"440-816-8200",
+   "directions": "https://www.google.com/maps/dir//Oakview+Behavioral+Health+Services,+Old+Oak+Boulevard,+Middleburg+Heights,+OH/@41.3859152,-81.8620135,12.52z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8830eb0d5106f797:0xeb36c09910d8eaa6!2m2!1d-81.8330352!2d41.3669322"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.493408,41.4658952 ]
+   },
+   "properties": {
+   "name":"Inspire Recovery Center",
+   "address":"3401 Enterprise Pl, Beachwood, OH",
+   "category":"carecenter",
+   "storeid":6,
+   "description":"Care center",
+   "phone":"216-201-9566",
+   "directions": "https://www.google.com/maps/dir//Inspire+Recovery+Center,+Enterprise+Place,+Beachwood,+OH/@41.465874,-81.563448,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883102eaa9ee3f8b:0x620feb4e1e216099!2m2!1d-81.493408!2d41.4658952"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.632887,41.503215 ]
+   },
+   "properties": {
+   "name":"CVS",
+   "address":"8000 Euclid Ave, Cleveland, OH",
+   "category":"pharmacy",
+   "storeid":7,
+   "description":"Drive through pharmacy",
+   "phone":"216-721-4000",
+   "directions": "https://www.google.com/maps/dir//8000+Euclid+Avenue,+Cleveland,+OH/@41.5031855,-81.7029267,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8830fba459d81fdb:0x662b23e680c8778d!2m2!1d-81.6328867!2d41.5032067"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.580747,41.532408 ]
+   },
+   "properties": {
+   "name":"Walgreens",
+   "address":"14525 Euclid Ave, East Cleveland, OH",
+   "category":"pharmacy",
+   "storeid":8,
+   "description":"Drive through pharmacy",
+   "phone":"216-531-1466",
+   "directions": "https://www.google.com/maps/dir//14525+Euclid+Avenue,+East+Cleveland,+OH/@41.525868,-81.5955394,14.55z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8830fe9fe59df6fb:0xbc615ff17b182553!2m2!1d-81.5806352!2d41.5324076"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.706808,41.470229 ]
+   },
+   "properties": {
+   "name":"Rite Aid",
+   "address":"3402 Clark Ave, Cleveland, OH",
+   "category":"pharmacy",
+   "storeid":9,
+   "description":"Drive through pharmacy",
+   "phone":"216-961-9414",
+   "directions": "https://www.google.com/maps/dir//3402+Clark+Avenue,+Cleveland,+OH/@41.4702008,-81.776849,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8830f01a22cf93cb:0x37c8915d7efdb01f!2m2!1d-81.706809!2d41.470222"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.703508,41.4696 ]
+   },
+   "properties": {
+   "name":"Clark Low Cost Pharmacy",
+   "address":"3105 Clark Ave, Cleveland, OH",
+   "category":"pharmacy",
+   "storeid":10,
+   "description":"Drive through pharmacy",
+   "phone":"216-651-8685",
+   "directions": "https://www.google.com/maps/dir//Clark+Low+Cost+Pharmacy,+Clark+Avenue,+Cleveland,+OH/@41.4695788,-81.773613,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x8830f01ae9b4ccdf:0xe5763a0dbf35731e!2m2!1d-81.703573!2d41.4696"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.6389077,41.4526715 ]
+   },
+   "properties": {
+   "name":"Discount Drug Mart ",
+   "address":"3889 E 71st St, Cleveland, OH",
+   "category":"pharmacy",
+   "storeid":11,
+   "description":"Drive through pharmacy",
+   "phone":"216-341-7370",
+   "directions": "https://www.google.com/maps/dir//3889+East+71st+Street,+Cleveland,+OH/@41.4526715,-81.6389077,81m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x8830e4d23e850a3f:0xead78315bad6dc68!2m2!1d-81.6379707!2d41.4526041"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.611146,41.504433 ]
+   },
+   "properties": {
+   "name":"Cleveland Clinic Express Care Clinic",
+   "address":"315 Euclid Avenue, Cleveland, OH",
+   "category":"clinic",
+   "storeid":12,
+   "description":"Minute clinic",
+   "phone":"216-442-6700",
+   "directions": "https://www.google.com/maps/dir//315+Euclid+Avenue,+Cleveland,+OH/@41.49984,-81.6909769,40m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x8830fa800479785b:0xfdf116040b4a4c46!2m2!1d-81.6908172!2d41.4998276"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.8766765,41.2358283 ]
+   },
+   "properties": {
+   "name":"Metro Expresscare",
+   "address":"6835 Broadway Ave, Cleveland, OH",
+   "category":"clinic",
+   "storeid":13,
+   "description":"Minute clinic",
+   "phone":"216-957-1500",
+   "directions": "https://www.google.com/maps/dir/41.2358283,-81.8766765/6835+Broadway+Ave,+Cleveland,+OH+44105/@41.3571729,-81.8995934,41378m/data=!3m2!1e3!4b1!4m17!1m7!3m6!1s0x8830fb2c17660d67:0x24433c2056abace1!2s6835+Broadway+Ave,+Cleveland,+OH+44105!3b1!8m2!3d41.4611189!4d-81.640734!4m8!1m1!4e1!1m5!1m1!1s0x8830fb2c17660d67:0x24433c2056abace1!2m2!1d-81.640734!2d41.4611189"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.769246,41.488101 ]
+   },
+   "properties": {
+   "name":"Minute Clinic",
+   "address":"11706 Clifton Blvd, Cleveland, OH",
+   "category":"clinic",
+   "storeid":14,
+   "description":"Minute clinic",
+   "phone":"216-228-9296",
+   "directions": "https://www.google.com/maps/dir/41.2357608,-81.8766602/MinuteClinic,+11706+Clifton+Blvd,+Lakewood,+OH+44107/@41.3614245,-81.9626273,11z/data=!3m1!4b1!4m16!1m6!3m5!1s0x8830f18d0c977b0b:0xdeef6e3d76e861f8!2sMinuteClinic!8m2!3d41.4881263!4d-81.7693625!4m8!1m1!4e1!1m5!1m1!1s0x8830f18d0c977b0b:0xdeef6e3d76e861f8!2m2!1d-81.7693625!2d41.4881263"
+   
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.65707,41.527121 ]
+   },
+   "properties": {
+   "name":"Concentra Urgent Care",
+   "address":"5500 S Marginal Rd, Cleveland, OH",
+   "category":"clinic",
+   "storeid":15,
+   "description":"Minute clinic",
+   "phone":"216-426-9020",
+   "directions": "https://www.google.com/maps/dir/41.2358283,-81.8766765/Concentra+Urgent+Care+Downtown,+South+Marginal+Road,+Cleveland,+OH/@41.4907273,-81.7209366,9744m/data=!3m1!1e3!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8830fa2dca2bf273:0x6e4d08f430305052!2m2!1d-81.6513668!2d41.5290517"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -81.734753,41.374328 ]
+   },
+   "properties": {
+   "name":"Minute Clinic",
+   "address":"5812 Ridge Road, Parma, OH",
+   "category":"clinic",
+   "storeid":16,
+   "description":"Minute clinic",
+   "phone":"440-842-6081",
+   "directions": "https://www.google.com/maps/dir//MinuteClinic,+Ridge+Road,+Parma,+OH/@41.3303254,-81.9464396,41395m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x8830ef1ffd147e2d:0x19eec8318ec794b3!2m2!1d-81.7351985!2d41.4043705"
+   }
+ }
+]
+}
